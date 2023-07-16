@@ -12,6 +12,9 @@ Technologies Used
 Weather Window is built using the following technologies:
 
 HTML: The application structure and layout are created using HTML, providing the foundation for the user interface.
+
 CSS: CSS is used to style the application, ensuring an aesthetically pleasing and intuitive user experience.
+
 Vanilla JavaScript: The core functionality of Weather Window is implemented in vanilla JavaScript, enabling dynamic updates and interactions with the user.
+
 Open Weather Map API: The application integrates with the Open Weather Map API to fetch weather data for different locations. The API provides access to a wide range of weather-related information.
