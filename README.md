@@ -1,7 +1,7 @@
 # weather_project
 Weather Window is a comprehensive web application that allows users to fetch weather information for different locations. It provides the option to automatically detect the user's location or manually enter a specific location. This README file provides an overview of the project, its features, and the technologies used.
 
-              **# Features**
+           
 Weather Window offers the following features:
 
 Location Detection: The application uses geolocation services to automatically detect the user's location and display the weather information for that location.
